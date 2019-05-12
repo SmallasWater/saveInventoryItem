@@ -1,0 +1,6 @@
+name: svaeInventoryNbtItem
+api: ["1.0.8"]
+version: "1.0.2"
+main: SaveInventory.Main
+author: "若水"
+load: POSTWORLD
